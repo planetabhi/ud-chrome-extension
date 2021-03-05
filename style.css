@@ -1,38 +1,5 @@
-@font-face {
-  src: url(/resources/fonts/Circular/CircularStd-Light.ttf);
-  font-family: circular;
-  font-weight: 200;
-}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
 
-@font-face {
-  src: url(/resources/fonts/Circular/CircularStd-Book.ttf);
-  font-family: circular;
-  font-weight: 400;
-}
-
-@font-face {
-  src: url(/resources/fonts/Circular/CircularStd-Medium.ttf);
-  font-family: circular;
-  font-weight: 600;
-}
-
-@font-face {
-  src: url(/resources/fonts/Circular/CircularStd-Bold.ttf);
-  font-family: circular;
-  font-weight: 800;
-}
-
-@font-face {
-  src: url(/resources/fonts/Freight-Pro/FreightTextProBook-Regular.otf);
-  font-family: freight;
-  font-weight: 400;
-}
-
-@font-face {
-  src: url(/resources/fonts/Freight-Pro/FreightTextProBold-Regular.otf);
-  font-family: freight;
-  font-weight: 800;
-}
 
 @-webkit-keyframes push-up {
   0% {
@@ -205,7 +172,8 @@ body a:hover {
 }
 
 .body .hero {
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   width: 40vw;
 }
 
@@ -266,7 +234,8 @@ body a:hover {
 
 .body .project-cards .card-1 .copy-link {
   float: right;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -300,7 +269,8 @@ body a:hover {
 
 .body .project-cards .card-1 .body {
   color: #ffffff;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-left: 4vw;
   margin-top: 8vh;
   margin-bottom: 6vh;
@@ -311,13 +281,14 @@ body a:hover {
   font-size: 36px;
   font-weight: 400;
   letter-spacing: -1.2px;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
 }
 
 .body .project-cards .card-1 .body .subheading {
   font-size: 22px;
-  font-weight: 200;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-top: 1vh;
   line-height: 36px;
   letter-spacing: -0.4px;
@@ -369,7 +340,8 @@ body a:hover {
 
 .body .project-cards .card-2 .copy-link {
   float: right;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -404,7 +376,8 @@ body a:hover {
 .body .project-cards .card-2 .body {
   color: #ffffff;
   width: 72%;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-top: 8vh;
   margin-left: 4vw;
   margin-bottom: 6vh;
@@ -412,15 +385,15 @@ body a:hover {
 
 .body .project-cards .card-2 .body .heading {
   font-size: 36px;
-  font-weight: 400;
   letter-spacing: -1.2px;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
 }
 
 .body .project-cards .card-2 .body .subheading {
   font-size: 22px;
-  font-weight: 200;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-top: 1vh;
   line-height: 36px;
   letter-spacing: -0.4px;
@@ -489,7 +462,8 @@ body a:hover {
 
 .body .project-cards .card-3 .copy-link {
   float: right;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -524,7 +498,8 @@ body a:hover {
 .body .project-cards .card-3 .body {
   color: #ffffff;
   width: 72%;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-top: 8vh;
   margin-left: 4vw;
   margin-bottom: 6vh;
@@ -534,13 +509,15 @@ body a:hover {
   font-size: 36px;
   font-weight: 400;
   letter-spacing: -1.2px;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
 }
 
 .body .project-cards .card-3 .body .subheading {
   font-size: 22px;
   font-weight: 200;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-top: 1vh;
   line-height: 36px;
   letter-spacing: -0.4px;
@@ -604,7 +581,8 @@ body a:hover {
 
 .body .project-cards .card-4 .copy-link {
   float: right;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -638,7 +616,8 @@ body a:hover {
 
 .body .project-cards .card-4 .body {
   color: #ffffff;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-left: 4vw;
   margin-top: 8vh;
   margin-bottom: 6vh;
@@ -649,13 +628,14 @@ body a:hover {
   font-size: 36px;
   font-weight: 400;
   letter-spacing: -1.2px;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
 }
 
 .body .project-cards .card-4 .body .subheading {
   font-size: 22px;
-  font-weight: 200;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-top: 1vh;
   line-height: 36px;
   letter-spacing: -0.4px;
@@ -723,7 +703,8 @@ body a:hover {
 
 .body .project-cards .card-5 .copy-link {
   float: right;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -757,7 +738,8 @@ body a:hover {
 
 .body .project-cards .card-5 .body {
   color: #ffffff;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-left: 4vw;
   margin-top: 8vh;
   margin-bottom: 6vh;
@@ -766,15 +748,15 @@ body a:hover {
 
 .body .project-cards .card-5 .body .heading {
   font-size: 36px;
-  font-weight: 400;
   letter-spacing: -1.2px;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
 }
 
 .body .project-cards .card-5 .body .subheading {
   font-size: 22px;
-  font-weight: 200;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-top: 1vh;
   line-height: 36px;
   letter-spacing: -0.4px;
@@ -842,7 +824,8 @@ body a:hover {
 
 .body .project-cards .card-6 .copy-link {
   float: right;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -877,7 +860,8 @@ body a:hover {
 .body .project-cards .card-6 .body {
   color: #ffffff;
   width: 72%;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-top: 8vh;
   margin-left: 4vw;
   margin-bottom: 6vh;
@@ -887,13 +871,14 @@ body a:hover {
   font-size: 36px;
   font-weight: 400;
   letter-spacing: -1.2px;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
 }
 
 .body .project-cards .card-6 .body .subheading {
   font-size: 22px;
-  font-weight: 200;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-top: 1vh;
   line-height: 36px;
   letter-spacing: -0.4px;
@@ -945,7 +930,8 @@ body a:hover {
 
 .body .project-cards .card-7 .copy-link {
   float: right;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -980,7 +966,8 @@ body a:hover {
 .body .project-cards .card-7 .body {
   color: #ffffff;
   width: 72%;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-top: 8vh;
   margin-left: 4vw;
   margin-bottom: 6vh;
@@ -990,13 +977,14 @@ body a:hover {
   font-size: 36px;
   font-weight: 400;
   letter-spacing: -1.2px;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
 }
 
 .body .project-cards .card-7 .body .subheading {
   font-size: 22px;
-  font-weight: 200;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-top: 1vh;
   line-height: 36px;
   letter-spacing: -0.4px;
@@ -1064,7 +1052,8 @@ body a:hover {
 
 .body .project-cards .card-8 .copy-link {
   float: right;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1098,7 +1087,8 @@ body a:hover {
 
 .body .project-cards .card-8 .body {
   color: #ffffff;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-left: 4vw;
   margin-top: 8vh;
   margin-bottom: 6vh;
@@ -1107,15 +1097,15 @@ body a:hover {
 
 .body .project-cards .card-8 .body .heading {
   font-size: 36px;
-  font-weight: 400;
   letter-spacing: -1.2px;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
 }
 
 .body .project-cards .card-8 .body .subheading {
   font-size: 22px;
-  font-weight: 200;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-top: 1vh;
   line-height: 36px;
   letter-spacing: -0.4px;
@@ -1183,7 +1173,8 @@ body a:hover {
 
 .body .project-cards .card-9 .copy-link {
   float: right;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1217,7 +1208,8 @@ body a:hover {
 
 .body .project-cards .card-9 .body {
   color: #ffffff;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-left: 4vw;
   margin-top: 8vh;
   margin-bottom: 6vh;
@@ -1228,13 +1220,14 @@ body a:hover {
   font-size: 36px;
   font-weight: 400;
   letter-spacing: -1.2px;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
 }
 
 .body .project-cards .card-9 .body .subheading {
   font-size: 22px;
-  font-weight: 200;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-top: 1vh;
   line-height: 36px;
   letter-spacing: -0.4px;
@@ -1298,7 +1291,8 @@ body a:hover {
 
 .body .project-cards .card-10 .copy-link {
   float: right;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1333,7 +1327,8 @@ body a:hover {
 .body .project-cards .card-10 .body {
   color: #ffffff;
   width: 72%;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-top: 8vh;
   margin-left: 4vw;
   margin-bottom: 6vh;
@@ -1343,13 +1338,14 @@ body a:hover {
   font-size: 36px;
   font-weight: 400;
   letter-spacing: -1.2px;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
 }
 
 .body .project-cards .card-10 .body .subheading {
   font-size: 22px;
-  font-weight: 200;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-top: 1vh;
   line-height: 36px;
   letter-spacing: -0.4px;
@@ -1419,7 +1415,8 @@ body a:hover {
 
 .body .project-cards .card-11 .copy-link {
   float: right;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1454,7 +1451,8 @@ body a:hover {
 .body .project-cards .card-11 .body {
   color: #ffffff;
   width: 72%;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-top: 8vh;
   margin-left: 4vw;
   margin-bottom: 6vh;
@@ -1464,13 +1462,14 @@ body a:hover {
   font-size: 36px;
   font-weight: 400;
   letter-spacing: -1.2px;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
 }
 
 .body .project-cards .card-11 .body .subheading {
   font-size: 22px;
-  font-weight: 200;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-top: 1vh;
   line-height: 36px;
   letter-spacing: -0.4px;
@@ -1510,7 +1509,8 @@ body a:hover {
 .body .project-cards .card-11 button {
   margin-top: 1vh;
   padding: 18px 24px;
-  font-family: circular;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   font-size: 18px;
   border-radius: 8px;
   background: #e95454;
@@ -1533,7 +1533,8 @@ body a:hover {
 
 .body .project-cards .card-12 .copy-link {
   float: right;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1567,7 +1568,8 @@ body a:hover {
 
 .body .project-cards .card-12 .body {
   color: #ffffff;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-left: 4vw;
   margin-top: 8vh;
   margin-bottom: 6vh;
@@ -1578,13 +1580,14 @@ body a:hover {
   font-size: 36px;
   font-weight: 400;
   letter-spacing: -1.2px;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
 }
 
 .body .project-cards .card-12 .body .subheading {
   font-size: 22px;
-  font-weight: 200;
-  font-family: 'circular', Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   margin-top: 1vh;
   line-height: 36px;
   letter-spacing: -0.4px;
@@ -1742,7 +1745,8 @@ body a:hover {
   padding: 10px 0;
   font-size: 32px;
   font-weight: 400;
-  font-family: circular;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   cursor: pointer;
 }
 
