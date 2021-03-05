@@ -1,0 +1,9 @@
+{
+  "name": "upGrad Design Projects",
+  "version": "0.01",
+  "description": "Displaying upGrad design projects on new tab",
+  "chrome_url_overrides":{
+    "newtab": "projects.html"
+  },
+  "manifest_version": 2
+}
